@@ -8,5 +8,3 @@ echo "a is greater than b"
 else
 echo "a is smaller than b"
 fi
-
-echo "Also, I used this script for github practical"
